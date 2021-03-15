@@ -1,3 +1,4 @@
+Juan Esteban López - j.lopezt@uniandes.edu.co - 202020285 
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
